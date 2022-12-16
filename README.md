@@ -1,10 +1,10 @@
 <h1 align="center">
-<strong><u>Mentorship Platform</u></strong>
+<strong><u>Flashcards Application</u></strong>
 </h1>
 
 
 <p align="center">
-Mentorship platform is a website application platform that gives the user chance to learn as a mentee and to teach as a mentor within the community in any field of interest.
+This Flashcards application was created with the vision of giving people a tool to memorize based on our old and amazing technique of using Flashcards. The pro being the user can make multiple Decks!
 </p>
 
 ## What's included
@@ -15,7 +15,7 @@ Within the application folder you'll find the following directories and files. Y
 Final Project Files/
 ├── main.py
 │
-├── seproject/
+├── flashkard/
 │   ├── __init__.py
 │   ├── models.py
 │   ├── views.py
