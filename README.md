@@ -14,14 +14,12 @@ Within the application folder you'll find the following directories and files. Y
 ```text
 Final Project Files/
 ├── main.py
-│
 ├── flashkard/
 │   ├── __init__.py
 │   ├── models.py
 │   ├── views.py
 │   ├── api.py
-│   ├── requirements.txt
-│   ├── myData.db
+│   ├── project.sqlite3
 │   ├── static/
 │   │	└── static/
 │   │       ├── dashboard.css
@@ -48,14 +46,6 @@ We can run Run "FlashCards-Platform" using localhost.  Below is the general comm
 The "FlashCards-Platform" is also live and hosted on Replit:
 
 	https://projectmad1.paramchordiya.repl.co
-
-## Database contents
-Below are the contents of the application database model code-
-
-- [Model Libraries](#model-libraries)
-- [Tables](#tables)
-
-
 
 
 #### Creator
